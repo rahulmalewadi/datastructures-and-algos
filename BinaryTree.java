@@ -1,4 +1,3 @@
-
 public class binarytree {
     Node root;
     public void addNode(int key , String name){
